@@ -5,7 +5,7 @@
 # 2ncolumn = disp_date
 
 library(dplyr)
-load(file = "C:/KU/SEE/sim_disp_apixaban.rdata")
+load(file = "./sim_disp_apixaban.rdata")
 
 sim_disp_apixaban<-sim_disp_apixaban[,c("person_id","disp_date")]
 
