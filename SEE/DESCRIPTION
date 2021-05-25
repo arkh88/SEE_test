@@ -1,0 +1,10 @@
+Package: SEE
+Type: Package
+Title: Sessa Empirical Estimator (SEE)
+Version: 0.1.0
+Authors: Dr. Maurizio Sessa and Dr. Abdul Rauf Khan
+Maintainer: Dr. Maurizio Sessa <maurizio.sessa@sund.ku.dk>
+Description: The SEE is an algorithm composed of multiple steps aiming to predict the duration of filled prescriptions when information regarding the true duration is not available. The SEE relies on individual-level information on the date of redemption of a medicinal product for predicting the duration of filled prescriptions. It assumes that the duration of a filled prescription is associated with the temporal distance between subsequently filled prescriptions as previously described in the waiting time distribution method. SEE aims at clustering temporal distances between filled prescriptions into K groups with similar patterns and the predicted durations within each group.
+License: CC-BY 2.0
+Encoding: UTF-8
+LazyData: true
