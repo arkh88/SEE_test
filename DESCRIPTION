@@ -1,0 +1,10 @@
+Package: SEE
+Type: Package
+Title: Sessa Empirical Estimator
+Version: 0.1.0
+Author: Maurizio Sessa <maurizio.sessa@sund.ku.dk>
+Maintainer: Maurizio Sessa <maurizio.sessa@sund.ku.dk>
+Description: Please refer to ?Sessa Empiral Estimator.
+License: None.
+Encoding: UTF-8
+LazyData: true
